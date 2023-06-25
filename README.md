@@ -1,6 +1,6 @@
 ### Hello, I am Taniya Afreen 👋
 
-- 🔭 I’m currently working on Webnoah
+- 🔭 I’m currently working on Tata Consultancy Services
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science
 - 🤔 I’m looking for help with Machine Learning Algorithms
